@@ -11,6 +11,8 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 For a better experience, while using our Service, we do not require you to provide us with any personally identifiable information, besides your phone number, name, and USC email. We do not track your usage of the app, or your location.
 
+If you are matched with another user, your phone number and name will be shared with at least one other user. 
+
 No information is shared with third-party companies or services. We will not sell, share or use your information to market or advertise to you.
 
 ### Log Data
@@ -25,13 +27,9 @@ We do not use cookies.
 
 We use Twilio to send out text messages informing you of ride updates and Firebase to collect the ticket data. Twillio does not collect any data.
 
-### Security
-
-We do not collect any data and information about you, hence, we do not store any data or information about you, so we do not take any special security measures to protect your data.
-
 ### Links to Other Sites
 
-This Service does not contain links to other sites.
+This service does not contain links to other sites.
 
 ### Changes to This Privacy Policy
 
@@ -41,7 +39,7 @@ This policy is effective as of 2/28/2023.
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at toanh@usc.edu or jmccoll@usc.edu.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at toanh@usc.edu or jmccoll@usc.edu or mdalbrig@usc.edu.
 
 _________________________________________________________________________________________________________________
 ### Terms of Service Agreement for Shairport
@@ -49,7 +47,7 @@ ________________________________________________________________________________
 Welcome to Shairport! The App is a service that connects USC students with other USC students to share a Lyft or Uber ride back to campus. By using the App, you agree to be bound by the terms and conditions set forth in this Terms of Service Agreement ("Agreement").
 
 ### User Responsibility
-You are solely responsible for your interactions with other users of the App. You agree to use the App at your own risk and to exercise caution when sharing a ride with another user. You agree that the App is not responsible for any accidents, injuries, or damages that may occur during the ride.
+You are solely responsible for your interactions with other users of the App. You agree to use the App at your own risk and to exercise caution when sharing a ride with another user. You agree that the App is not responsible for any unwanted consequences that may occur before, during, after, or in place of a shared ride.
 
 ### User Conduct
 You agree to use the App in compliance with all applicable laws and regulations. You agree not to engage in any activity that may harm the App or its users, including but not limited to hacking, spamming, or distributing malware. You also agree not to use the App for any unlawful or fraudulent purpose.
